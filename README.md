@@ -10,7 +10,7 @@
   <img src="https://img.shields.io/badge/DB-Supabase-d8f3dc?style=flat-square&logo=supabase&logoColor=white&labelColor=95d5b2" />
   <img src="https://img.shields.io/badge/Style-Vibe%20Check%20Passed-f3d1f4?style=flat-square&logo=sparkles&logoColor=white&labelColor=e4bad4" />
 </p>
----
+
 
 ## 💫 About Me
 
