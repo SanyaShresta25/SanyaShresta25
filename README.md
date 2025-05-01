@@ -14,7 +14,7 @@
 
 ## 💫 About Me
 
-🎓 Undergrad pursuing B.Tech in Information Science and Engineering
+🎓 Undergrad pursuing B.Tech in Information Science and Engineering<br>
 ⚙️ Tinkering with full-stack apps, deep learning models & all things cloud  
 💡 I love crafting smart, secure, AI-powered web apps that actually *do* something  
 🌐 Portfolio → [sanyashresta.netlify.app](https://sanyashresta.netlify.app)
