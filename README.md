@@ -14,7 +14,7 @@
 
 ## 💫 About Me
 
-🎓 Final-year B.Tech student in Info Science @ NMAMIT, Nitte  
+🎓 Undergrad pursuing B.Tech in Information Science and Engineering from NMAMIT,Nitte
 ⚙️ Tinkering with full-stack apps, deep learning models & all things cloud  
 💡 I love crafting smart, secure, AI-powered web apps that actually *do* something  
 🌐 Portfolio → [sanyashresta.netlify.app](https://sanyashresta.netlify.app)
