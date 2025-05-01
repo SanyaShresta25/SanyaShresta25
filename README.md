@@ -12,6 +12,19 @@
 
 
 ---
+<!-- Import a bubbly font -->
+<link href="https://fonts.googleapis.com/css2?family=Comfortaa:wght@400;600&display=swap" rel="stylesheet">
+<style>
+  body {
+    font-family: 'Comfortaa', sans-serif;
+  }
+</style>
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Comfortaa&size=24&duration=2500&pause=1000&color=F472B6&center=true&vCenter=true&width=435&lines=Hello%2C+I'm+Sanya+Shresta+%F0%9F%8C%9F" alt="Typing SVG" />
+</h1>
+
+---
 
 ## 💫 About Me
 
@@ -20,18 +33,18 @@
 💡 I love crafting smart, secure, AI-powered web apps that actually *do* something  
 🌐 Portfolio → [sanyashresta.netlify.app](https://sanyashresta.netlify.app)
 
-🚀 Actively looking for a Software Dev role where I can sprinkle some Java, wrangle the cloud, and bring deep learning + full-stack magic to life.  
+🚀 On the lookout for a dev role where I can sprinkle some Java, wrangle cloud infra, and bring deep learning + full-stack magic to life.  
 Let’s build something cool, clever, and cloud-native. 👩‍💻☁️
 
 ---
 
-## 🛠️ Tech Stack I'm Learning & Working With
+## 🛠️ Tech Stack I'm Exploring
 
-Still exploring, but I've worked on projects using:  
+Still learning — but here’s what I’ve used in my projects:  
 `JavaScript` • `React.js` • `Node.js` • `Express` • `MongoDB`  
 `Tailwind CSS` • `Python` • `Java` • `C` • `Supabase` • `TensorFlow.js`  
 
-Grateful for how far I've come, excited to keep learning.
+Grateful for the journey so far. Learning never stops 💫
 
 ---
 
@@ -46,6 +59,6 @@ Grateful for how far I've come, excited to keep learning.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanyaShresta25&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanyaShresta25&layout=compact&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SanyaShresta25&show_icons=true&theme=radical" height="140"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanyaShresta25&layout=compact&theme=radical" height="140"/>
 </p>
