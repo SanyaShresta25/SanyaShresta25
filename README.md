@@ -10,9 +10,6 @@
   <img src="https://img.shields.io/badge/DB-Supabase-d8f3dc?style=flat-square&logo=supabase&logoColor=white&labelColor=95d5b2" />
   <img src="https://img.shields.io/badge/Style-Vibe%20Check%20Passed-f3d1f4?style=flat-square&logo=sparkles&logoColor=white&labelColor=e4bad4" />
 </p>
-
-</p>
-
 ---
 
 ## 💫 About Me
@@ -30,6 +27,7 @@ Let’s build something cool, clever, and cloud-native. 👩‍💻☁️
 ## 🛠️ Tech Stack I'm Learning & Working With
 
 Still exploring, but I've worked on projects using:  
+
 `JavaScript` • `React.js` • `Node.js` • `Express` • `MongoDB`  
 `Tailwind CSS` • `Python` • `Java` • `C` • `Supabase` • `TensorFlow.js`  
 
@@ -41,7 +39,7 @@ Grateful for how far I've come, excited to keep learning.
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/sanya-shresta-jathanna)
 - 💻 [GitHub](https://github.com/SanyaShresta25)
-- ✉️ Email: shrestasanya@gmail.com
+- ✉️ shrestasanya@gmail.com
 
 ---
 
