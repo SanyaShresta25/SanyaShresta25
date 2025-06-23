@@ -60,9 +60,6 @@ Grateful for how far I've come, excited to keep learning.
 
 
 ---
-
-## 📊 GitHub Stats
-
 <h2 align="center">🌸 My GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SanyaShresta25&show_icons=true&custom_title=Sanya's%20GitHub%20Stats&theme=default&bg_color=ffffff&title_color=b28dff&text_color=6e6e6e&icon_color=ffb6b9&border_color=e0c3fc" height="165"/>
