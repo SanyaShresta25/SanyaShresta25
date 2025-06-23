@@ -56,7 +56,9 @@ Grateful for how far I've come, excited to keep learning.
     <img src="https://img.shields.io/badge/Twitter-%20-B2F2BB?style=flat-square&color=B2F2BB" alt="Twitter"/>
   </a>
 </p>
-<h2 align="center">🌸 My GitHub Stats</h2>
+---
+
+## 🌸 My GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SanyaShresta25&show_icons=true&custom_title=Sanya's%20GitHub%20Stats&theme=default&bg_color=ffffff&title_color=b28dff&text_color=6e6e6e&icon_color=ffb6b9&border_color=e0c3fc" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanyaShresta25&layout=compact&theme=default&bg_color=ffffff&title_color=ffb6b9&text_color=6e6e6e&icon_color=fcd5ce&border_color=e0c3fc" height="165"/>
@@ -67,8 +69,6 @@ Grateful for how far I've come, excited to keep learning.
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=SanyaShresta25&style=flat-square&color=ffb6b9" alt="profile views"/>
 </p>
----
-
 <p align="center" style="font-style: italic; color: #b183ac;">
   "I may not know everything yet , but I keep trying." 🌷
 </p>
