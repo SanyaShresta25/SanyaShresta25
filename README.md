@@ -38,21 +38,27 @@ Grateful for how far I've come, excited to keep learning.
 ## 📬 Let's Connect!
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sanya-shresta-jathanna" target="_blank">
+  <a href="https://www.linkedin.com/in/sanya-shresta-jathanna" target="_blank" style="margin-right: 15px;">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="30"/>
-  </a>
+  </a>&nbsp;&nbsp;
+
   <a href="https://github.com/SanyaShresta25" target="_blank">
     <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" width="30"/>
-  </a>
+  </a>&nbsp;&nbsp;
+
   <a href="mailto:shrestasanya@gmail.com" target="_blank">
     <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="30"/>
-  </a>
+  </a>&nbsp;&nbsp;
+
   <a href="https://sanyashresta.netlify.app" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/cloud.png" alt="Portfolio" width="30"/>
-  </a>
+    <span style="font-size: 14px; vertical-align: middle;">Portfolio</span>
+  </a>&nbsp;&nbsp;
+
   <a href="https://leetcode.com/u/SanyaShresta/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30"/>
-  </a>
+  </a>&nbsp;&nbsp;
+
   <a href="https://x.com/sanya_shresta" target="_blank">
     <img src="https://img.icons8.com/ios-filled/50/twitterx.png" alt="Twitter" width="30"/>
   </a>
