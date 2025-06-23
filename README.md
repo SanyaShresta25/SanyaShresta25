@@ -56,7 +56,6 @@ Grateful for how far I've come, excited to keep learning.
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&labelColor=B2F2BB&logoColor=000000&color=B2F2BB" alt="Twitter (X)"/>
   </a>
 </p>
----
 <h2 align="center">🌸 My GitHub Stats</h2>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SanyaShresta25&show_icons=true&custom_title=Sanya's%20GitHub%20Stats&theme=default&bg_color=ffffff&title_color=b28dff&text_color=6e6e6e&icon_color=ffb6b9&border_color=e0c3fc" height="165"/>
