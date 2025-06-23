@@ -64,13 +64,18 @@ Grateful for how far I've come, excited to keep learning.
 ## 📊 GitHub Stats
 
 <h2 align="center">🌸 My GitHub Stats</h2>
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanyaShresta25&show_icons=true&theme=calm-pink&hide_border=true&title_color=ecb1d5&icon_color=ecb1d5&text_color=b183ac" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanyaShresta25&layout=compact&theme=calm-pink&hide_border=true&title_color=ecb1d5&text_color=b183ac" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SanyaShresta25&show_icons=true&custom_title=Sanya's%20GitHub%20Stats&theme=default&bg_color=ffffff&title_color=b28dff&text_color=6e6e6e&icon_color=ffb6b9&border_color=e0c3fc" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanyaShresta25&layout=compact&theme=default&bg_color=ffffff&title_color=ffb6b9&text_color=6e6e6e&icon_color=fcd5ce&border_color=e0c3fc" height="165"/>
 </p>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=SanyaShresta25&theme=calm-pink&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" height="200"/>
 </p>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SanyaShresta25&theme=github-light&area=true&color=b57ab4&line=ecb1d5&point=ffb6b9&bg_color=ffffff" />
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SanyaShresta25&style=flat-square&color=ffb6b9" alt="profile views"/>
+</p>
+
 
