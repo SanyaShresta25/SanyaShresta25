@@ -64,6 +64,11 @@ Grateful for how far I've come, excited to keep learning.
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanyaShresta25&show_icons=true&custom_title=Sanya's%20GitHub%20Stats&theme=default&bg_color=ffffff&title_color=b28dff&text_color=6e6e6e&icon_color=ffb6b9&border_color=e0c3fc" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanyaShresta25&layout=compact&theme=default&bg_color=ffffff&title_color=ffb6b9&text_color=6e6e6e&icon_color=fcd5ce&border_color=e0c3fc" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=SanyaShresta25&show_icons=true&theme=calm-pink&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanyaShresta25&layout=compact&theme=calm-pink&hide_border=true" height="165"/>
 </p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SanyaShresta25&theme=calm-pink&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak"/>
+</p>
+
