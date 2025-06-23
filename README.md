@@ -39,26 +39,24 @@ Grateful for how far I've come, excited to keep learning.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sanya-shresta-jathanna" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" style="filter: brightness(1.2) saturate(0.7);"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="30"/>
   </a>
   <a href="https://github.com/SanyaShresta25" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" style="filter: brightness(1.2) saturate(0.7);"/>
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" width="30"/>
   </a>
   <a href="mailto:shrestasanya@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="30" style="filter: brightness(1.2) saturate(0.7);"/>
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="30"/>
   </a>
   <a href="https://sanyashresta.netlify.app" target="_blank">
-    <img src="https://www.svgrepo.com/show/327408/netlify.svg" alt="Portfolio" width="30" style="filter: brightness(1.2) saturate(0.7);"/>
+    <img src="https://img.icons8.com/ios-filled/50/cloud.png" alt="Portfolio" width="30"/>
   </a>
   <a href="https://leetcode.com/u/SanyaShresta/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30" style="filter: brightness(1.2) saturate(0.7);"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30"/>
   </a>
   <a href="https://x.com/sanya_shresta" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" alt="Twitter" width="30" style="filter: brightness(1.2) saturate(0.7);"/>
+    <img src="https://img.icons8.com/ios-filled/50/twitterx.png" alt="Twitter" width="30"/>
   </a>
 </p>
-
-
 
 ---
 
