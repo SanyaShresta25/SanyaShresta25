@@ -77,7 +77,7 @@ Grateful for how far I've come, excited to keep learning.
 ---
 
 <p align="center" style="font-style: italic; color: #b183ac;">
-  "I may not know everything yet — but I keep trying." 🌷
+  "I may not know everything yet , but I keep trying." 🌷
 </p>
 
 <p align="center">
