@@ -37,34 +37,27 @@ Grateful for how far I've come, excited to keep learning.
 
 ## 📬 Let's Connect!
 
-<p align="left" style="display: flex; gap: 16px; align-items: center; flex-wrap: wrap;">
-
+<p align="left">
   <a href="https://www.linkedin.com/in/sanya-shresta-jathanna" target="_blank">
-    <img src="https://img.icons8.com/pastel-glyph/64/linkedin--v2.png" width="30"/>
+    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="30"/>
   </a>
-
   <a href="https://github.com/SanyaShresta25" target="_blank">
-    <img src="https://img.icons8.com/pastel-glyph/64/github--v2.png" width="30"/>
+    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" width="30"/>
   </a>
-
   <a href="mailto:shrestasanya@gmail.com" target="_blank">
-    <img src="https://img.icons8.com/pastel-glyph/64/gmail--v2.png" width="30"/>
+    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="30"/>
   </a>
-
-  <a href="https://sanyashresta.netlify.app" target="_blank" style="text-decoration: none;">
-    <img src="https://img.icons8.com/pastel-glyph/64/cloud.png" width="30"/>
-    <span style="font-family: 'Gloria Hallelujah', cursive; font-size: 14px; margin-left: 6px; color: #7b7b7b;">Portfolio</span>
+  <a href="https://sanyashresta.netlify.app" target="_blank">
+    <img src="https://img.icons8.com/ios-filled/50/cloud.png" alt="Portfolio" width="30"/>
   </a>
-
   <a href="https://leetcode.com/u/SanyaShresta/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="30"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30"/>
   </a>
-
   <a href="https://x.com/sanya_shresta" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/twitterx.png" width="30"/>
+    <img src="https://img.icons8.com/ios-filled/50/twitterx.png" alt="Twitter" width="30"/>
   </a>
-
 </p>
+
 
 ---
 
