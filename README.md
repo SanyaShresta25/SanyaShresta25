@@ -37,27 +37,25 @@ Grateful for how far I've come, excited to keep learning.
 
 ## 📬 Let's Connect!
 <p align="left">
-  <a href="https://www.linkedin.com/in/sanya-shresta-jathanna" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" width="30"/>
+  <a href="https://www.linkedin.com/in/sanya-shresta-jathanna" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&labelColor=AEC6CF&logoColor=white&color=AEC6CF" alt="LinkedIn"/>
   </a>
-  <a href="https://github.com/SanyaShresta25" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.icons8.com/ios-glyphs/30/000000/github.png" alt="GitHub" width="30"/>
+  <a href="https://github.com/SanyaShresta25" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&labelColor=CFCFC4&logoColor=000000&color=CFCFC4" alt="GitHub"/>
   </a>
-  <a href="mailto:shrestasanya@gmail.com" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" width="30"/>
+  <a href="mailto:shrestasanya@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&labelColor=FFD1DC&logoColor=D14836&color=FFD1DC" alt="Email"/>
   </a>
-  <a href="https://sanyashresta.netlify.app" target="_blank" style="margin-right: 10px;">
-    <img src="https://img.icons8.com/ios-filled/50/cloud.png" alt="Portfolio" width="30"/>
+  <a href="https://sanyashresta.netlify.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&labelColor=E0BBE4&logoColor=000000&color=E0BBE4" alt="Portfolio"/>
   </a>
-  <a href="https://leetcode.com/u/SanyaShresta/" target="_blank" style="margin-right: 10px;">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30"/>
+  <a href="https://leetcode.com/u/SanyaShresta/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=leetcode&labelColor=FFFACD&logoColor=000000&color=FFFACD" alt="LeetCode"/>
   </a>
   <a href="https://x.com/sanya_shresta" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/50/twitterx.png" alt="Twitter" width="30"/>
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&labelColor=B2F2BB&logoColor=000000&color=B2F2BB" alt="Twitter (X)"/>
   </a>
 </p>
-
-
 ---
 <h2 align="center">🌸 My GitHub Stats</h2>
 <p align="center">
@@ -79,9 +77,3 @@ Grateful for how far I've come, excited to keep learning.
 <p align="center" style="font-style: italic; color: #b183ac;">
   "I may not know everything yet , but I keep trying." 🌷
 </p>
-
-<p align="center">
-  Thanks for scrolling this far 💫<br/>
-  Let's build something meaningful together 💻✨
-</p>
-
