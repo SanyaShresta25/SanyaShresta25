@@ -39,24 +39,25 @@ Grateful for how far I've come, excited to keep learning.
 
 <p align="left">
   <a href="https://www.linkedin.com/in/sanya-shresta-jathanna" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="30" style="filter: brightness(1.2) saturate(0.7);"/>
   </a>
   <a href="https://github.com/SanyaShresta25" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="30" style="filter: brightness(1.2) saturate(0.7);"/>
   </a>
   <a href="mailto:shrestasanya@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Email" width="30" style="filter: brightness(1.2) saturate(0.7);"/>
   </a>
   <a href="https://sanyashresta.netlify.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+    <img src="https://www.svgrepo.com/show/327408/netlify.svg" alt="Portfolio" width="30" style="filter: brightness(1.2) saturate(0.7);"/>
   </a>
   <a href="https://leetcode.com/u/SanyaShresta/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" alt="LeetCode" width="30" style="filter: brightness(1.2) saturate(0.7);"/>
   </a>
   <a href="https://x.com/sanya_shresta" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter (X)"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/5/53/X_logo_2023.svg" alt="Twitter" width="30" style="filter: brightness(1.2) saturate(0.7);"/>
   </a>
 </p>
+
 
 
 ---
