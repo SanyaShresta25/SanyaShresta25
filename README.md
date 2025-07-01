@@ -28,8 +28,18 @@ Let’s build something cool, clever, and cloud-native. 👩‍💻☁️
 
 Still exploring, but I've worked on projects using:  
 
-`JavaScript` • `React.js` • `Node.js` • `Express` • `MongoDB`  
-`Tailwind CSS` • `Python` • `Java` • `C` • `Supabase` • `TensorFlow.js`  
+![JavaScript](https://img.shields.io/badge/JavaScript-efd81d?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/React-99ccff?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-a3d9a5?style=flat&logo=node.js&logoColor=black)
+![Express](https://img.shields.io/badge/Express-e0e0e0?style=flat&logo=express&logoColor=black)
+![MongoDB](https://img.shields.io/badge/MongoDB-b5e3b5?style=flat&logo=mongodb&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-aad7f0?style=flat&logo=tailwind-css&logoColor=black)
+![Python](https://img.shields.io/badge/Python-dcd6f7?style=flat&logo=python&logoColor=black)
+![Java](https://img.shields.io/badge/Java-f9c5d1?style=flat&logo=java&logoColor=black)
+![C](https://img.shields.io/badge/C-e2e2e2?style=flat&logo=c&logoColor=black)
+![Supabase](https://img.shields.io/badge/Supabase-b2f2bb?style=flat&logo=supabase&logoColor=black)
+![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-ffd6a5?style=flat&logo=tensorflow&logoColor=black)
+
 
 Grateful for how far I've come, excited to keep learning.
 
