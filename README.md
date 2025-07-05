@@ -17,7 +17,7 @@
 🎓 Undergrad pursuing B.Tech in Information Science and Engineering<br>
 ⚙️ Tinkering with full-stack apps, deep learning models & all things cloud  
 💡 I love crafting smart, secure, AI-powered web apps that actually *do* something  
-🌐 Portfolio → [Portfolio](https://portfolio-ten-ashen-bbywh0knsa.vercel.app/)
+🌐 Portfolio → [Portfolio](https://portfolio-sanya-shresta-jathanna.vercel.app/)
 
 🚀 Actively looking for a Software Dev role where I can sprinkle some Java, wrangle the cloud, and bring deep learning + full-stack magic to life.  
 Let’s build something cool, clever, and cloud-native. 👩‍💻☁️
